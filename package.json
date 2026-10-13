@@ -1,0 +1,1 @@
+{"description":"Telegram bot worker: 监听 channel 新消息，按关键字转发到 forum 的对应 topic","name":"tg-keyword-forward","private":true,"type":"module","version":"1.0.0","devDependencies":{"cf":"^1.0.0-beta.13","wrangler":"^4.148.0"}}
